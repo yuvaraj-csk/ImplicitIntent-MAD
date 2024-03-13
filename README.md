@@ -103,11 +103,10 @@ public class MainActivity extends AppCompatActivity {
 
 ![Fimplicit](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/b0792962-c0d4-40ef-a49f-bbbb4f034168)
 
-![implicit-google](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/474ea95a-c01d-4fcf-a338-467d7b62324c)
+![impli-gmail](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/50e4ab25-5c43-49a2-8de9-189399bafc4d)
 
 
-![implicit-colour](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/d4c32387-e9d8-43bb-8587-e4b5963142d0)
-
+![signin-gmail](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/fe3ea95a-3691-4105-8cb4-ba8c90d7fdf1)
 
 
 
