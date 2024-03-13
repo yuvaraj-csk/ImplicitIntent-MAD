@@ -1,4 +1,4 @@
-# Ex.No:3a Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
+# Ex.No: 3a Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
 
 
 ## AIM:
@@ -101,12 +101,17 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![Fimplicit](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/b0792962-c0d4-40ef-a49f-bbbb4f034168)
 
 ![impli-gmail](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/50e4ab25-5c43-49a2-8de9-189399bafc4d)
 
 
 ![signin-gmail](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/fe3ea95a-3691-4105-8cb4-ba8c90d7fdf1)
+
+
+
+![implicit-colour](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/a3be999e-b921-4471-8cca-6f5fc61dc1ba)
+
+
 
 
 
