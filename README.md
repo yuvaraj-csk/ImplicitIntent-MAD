@@ -10,6 +10,8 @@ To create a navigate button using Implicit Intent to display the gmail page usin
 Latest Version Android Studio
 
 ## ALGORITHM:
+
+
 Step 1: Open Android Studio and then click on File -> New -> New project.
 Step 2: Then type the Application name as HelloWorld and click Next.
 Step 3: Then select the Minimum SDK as shown below and click Next.
@@ -28,6 +30,7 @@ Registeration Number : 212221040187
 ```
 ## ACTIVITY_MAIN.XML
 ```
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -109,6 +112,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
 ![implicit-colour](https://github.com/yuvaraj-csk/ImplicitIntent-MAD/assets/134052574/a3be999e-b921-4471-8cca-6f5fc61dc1ba)
 
 
@@ -117,8 +123,11 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+```
 
+```
 ## RESULT
+
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
 
 
